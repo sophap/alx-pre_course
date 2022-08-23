@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "ALX School"
+=======
 >>>>>>> origin/main
+echo "ALX School"
